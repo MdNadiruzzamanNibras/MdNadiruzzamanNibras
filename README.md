@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/D5616AQEIvEFJ-Wqi5Q/profile-displaybackgroundimage-shrink_350_1400/0/1664169160788?e=1669852800&v=beta&t=NUznDcPdHfXv7oDT5GIXQTh-k9zCHfWUerpBQ-qgikE)
+![MERN Stack Developer]
 <h1 align="center">Hi 👋, I'm MD Nadiruzzaman Nibras</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
